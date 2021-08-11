@@ -1,0 +1,23 @@
+{
+  "name": "publish-test-archi",
+  "version": "1.0.0",
+  "description": "For test publish npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archimonde12/test-publish.git"
+  },
+  "keywords": [
+    "test",
+    "publish"
+  ],
+  "author": "archimonde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archimonde12/test-publish/issues"
+  },
+  "homepage": "https://github.com/archimonde12/test-publish#readme"
+}
